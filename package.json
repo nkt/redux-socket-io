@@ -1,6 +1,6 @@
 {
   "name": "redux-socket-io",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Socket.io middleware for Redux.",
   "main": "lib/index.js",
   "files": [
